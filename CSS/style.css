@@ -1,0 +1,18 @@
+header{
+    margin-bottom: 40px;
+}
+
+.nav-link{
+    color: #C34A2C;
+}
+    
+.nav-link.active{
+    background:  #C34A2C
+    color: goldenrod;
+}
+    
+main{
+    background:#EDC9AF;
+    height: 100vh;
+    padding: 40px 0;
+}
